@@ -61,4 +61,4 @@ Ejecutar únicamente contra dominios propios o con autorización expresa. Manten
 
 MIT. © 2026 Equipo Division81 Grupo Oruss.
 
-<img width="1697" height="497" alt="imagen" src="https://github.com/user-attachments/assets/bb6c791a-ef22-4fb4-b300-64636d251c52" />
+<img width="2172" height="724" alt="imagen" src="https://github.com/user-attachments/assets/8374635b-b73f-45d7-8287-dc85f84fd942" />
